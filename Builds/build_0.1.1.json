@@ -1,0 +1,1299 @@
+{
+  "Entries" : [
+    {
+      "RelativePath" : ".gitattributes",
+      "Size" : 208,
+      "LastWriting" : "2023-02-02 18:22:05Z",
+      "Hash" : "pErmgVXOLbQUYWNynxyDf3zmvTo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon.exe",
+      "Size" : 653824,
+      "LastWriting" : "2022-02-02 09:52:24Z",
+      "Hash" : "h3LjsnsWyPkQ0c/HAs3AyMipCQw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "UnityCrashHandler64.exe",
+      "Size" : 1232984,
+      "LastWriting" : "2022-02-02 09:53:34Z",
+      "Hash" : "ehyK+kYjx7YToPGqGC5Pgz1fH3k",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "UnityPlayer.dll",
+      "Size" : 28239960,
+      "LastWriting" : "2022-02-02 09:53:30Z",
+      "Hash" : "yLkadlOwqrpklaW8A36xRpaTYYM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/app.info",
+      "Size" : 30,
+      "LastWriting" : "2023-02-02 05:18:02Z",
+      "Hash" : "H3WrN0dIcj4j4AQADcQF61O9OTA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/boot.config",
+      "Size" : 69,
+      "LastWriting" : "2023-02-02 05:18:01Z",
+      "Hash" : "B1FkgzcuObgo+KTYpvPhPypgeyI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/globalgamemanagers",
+      "Size" : 415612,
+      "LastWriting" : "2023-02-02 05:17:53Z",
+      "Hash" : "T0bLtIFAOPo/2jqi7gygZmi9AKU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/globalgamemanagers.assets",
+      "Size" : 225664,
+      "LastWriting" : "2023-02-02 05:17:53Z",
+      "Hash" : "7qgDxKUKXEkSU49taSTIfwawtWo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/level0",
+      "Size" : 34708,
+      "LastWriting" : "2023-02-02 05:17:38Z",
+      "Hash" : "l9ZuH6eqJq+XLMBu99yQ0Mt1GHo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/resources.assets",
+      "Size" : 9131376,
+      "LastWriting" : "2023-02-02 05:17:58Z",
+      "Hash" : "4tpTEiEA5NgHJ5ML+4yw1jX7kgA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/resources.assets.resS",
+      "Size" : 201204208,
+      "LastWriting" : "2023-02-02 05:54:49Z",
+      "Hash" : "/PaMKAhiJNko0u+LkhKWaSWNTYM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/RuntimeInitializeOnLoads.json",
+      "Size" : 2502,
+      "LastWriting" : "2023-02-02 05:17:34Z",
+      "Hash" : "CrBWTsmEV7fdFZ6MSxG/QelIYzk",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/ScriptingAssemblies.json",
+      "Size" : 3992,
+      "LastWriting" : "2023-02-02 05:17:53Z",
+      "Hash" : "wHdfjJnLCWHHGnOY89tIMD2dhdc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/sharedassets0.assets",
+      "Size" : 9424512,
+      "LastWriting" : "2023-02-02 05:18:01Z",
+      "Hash" : "7NiS5DJA5L1w+fPJIsMR2d0zOkA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/sharedassets0.assets.resS",
+      "Size" : 121099976,
+      "LastWriting" : "2023-02-02 05:54:49Z",
+      "Hash" : "KpuqWPgsjWa5sFYFErRa4lVOqcw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/sharedassets0.resource",
+      "Size" : 9615136,
+      "LastWriting" : "2023-02-02 05:18:01Z",
+      "Hash" : "dPkbYSJCZWQMO+Yq0O1UxsWhaMQ",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Amqp.Net.dll",
+      "Size" : 264704,
+      "LastWriting" : "2022-12-13 19:27:55Z",
+      "Hash" : "hzBaTIPm9B85B3b2+yajs+FuLyk",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Assembly-CSharp-firstpass.dll",
+      "Size" : 76800,
+      "LastWriting" : "2023-02-02 05:17:27Z",
+      "Hash" : "srWHVH+yFW2W3+Hl7hgA+TGL4Js",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Assembly-CSharp.dll",
+      "Size" : 786944,
+      "LastWriting" : "2023-02-02 05:17:31Z",
+      "Hash" : "LQNXW+iAG6cg38sZMuzyjL0r0L0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/AxieCore.AxieMixer.dll",
+      "Size" : 57344,
+      "LastWriting" : "2022-09-02 04:32:15Z",
+      "Hash" : "P4XZqPcF30gYzyS2oj1cCNtzDwU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/AxieMixerUnity.dll",
+      "Size" : 65024,
+      "LastWriting" : "2023-02-02 05:17:24Z",
+      "Hash" : "gk9Rs2vo14j34fEe+BSsGKkRrZg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/DemiLib.dll",
+      "Size" : 13312,
+      "LastWriting" : "2022-09-02 04:32:18Z",
+      "Hash" : "NXEFs8EsxlEpXXwRlJXVY4tW/tU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/DOTween.dll",
+      "Size" : 172032,
+      "LastWriting" : "2022-09-02 04:32:18Z",
+      "Hash" : "B2JbTMqNzU0/vxK556eGPlK711M",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/DOTweenPro.dll",
+      "Size" : 15872,
+      "LastWriting" : "2022-09-02 04:32:18Z",
+      "Hash" : "R+vuDW2ocwh7iy5xYwLUuo6gSLg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Febucci.TextAnimator.Demo.Runtime.dll",
+      "Size" : 7168,
+      "LastWriting" : "2023-02-02 05:17:25Z",
+      "Hash" : "55oxLO3+8GzY+Wv5oasLwOK9tbY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Febucci.TextAnimator.Runtime.dll",
+      "Size" : 73216,
+      "LastWriting" : "2023-02-02 05:17:24Z",
+      "Hash" : "UhD3rHQS/pIbOxwrFlBNoA9uJlY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/FlexibleConfiguration.dll",
+      "Size" : 32768,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "YftH9dCr1s5vhf2mUHiKmwjVWV0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Microsoft.Bcl.AsyncInterfaces.dll",
+      "Size" : 20864,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "ami+66eZqax5ybTt11lM7Uy3kiw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Microsoft.Extensions.Logging.Abstractions.dll",
+      "Size" : 48504,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "6OipLdzQMWM54TPMlfgogxEkMlI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Microsoft.IdentityModel.JsonWebTokens.dll",
+      "Size" : 61288,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "3fVhHTybGwziqhsOC3/dYwTYqfc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Microsoft.IdentityModel.Logging.dll",
+      "Size" : 24952,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "wVur7/GowRtNpA2pcyrwGkkbXLY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Microsoft.IdentityModel.Tokens.dll",
+      "Size" : 862568,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "rLI++8WAtuU5UYphYe9QriTiAJ0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Mono.Security.dll",
+      "Size" : 310272,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "6UAFjP9dxYTBHcbksRHoWj9soG4",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/mscorlib.dll",
+      "Size" : 3906048,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "JDoE2QpzbdFKo4qyXxAlYYOCFQo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/netstandard.dll",
+      "Size" : 84992,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "fIAi//MKRboElA67fvkkqRRgVuM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Newtonsoft.Json.dll",
+      "Size" : 683008,
+      "LastWriting" : "2021-10-11 17:19:52Z",
+      "Hash" : "1CRb2OpXbEJQlQszfV0QR8EscDo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Okta.Auth.Sdk.dll",
+      "Size" : 65024,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "Lxt9dWGuzOgJxS8DAWKzJpPiotE",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Okta.Sdk.Abstractions.dll",
+      "Size" : 59904,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "2cFZ5qAN9l8meJU7tsrinJD6Mng",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Okta.Sdk.dll",
+      "Size" : 514048,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "qw0zewivS8EWEyST/0cxjZ9tPgk",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Sirenix.OdinInspector.Attributes.dll",
+      "Size" : 88576,
+      "LastWriting" : "2022-11-02 04:45:18Z",
+      "Hash" : "botbixT5yhgwE2CbHLL2IYo3bSI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Sirenix.OdinInspector.Modules.UnityLocalization.dll",
+      "Size" : 5632,
+      "LastWriting" : "2023-02-02 05:17:26Z",
+      "Hash" : "pX9y2Cwh2dxcGblf+SIukT6onLE",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Sirenix.Serialization.Config.dll",
+      "Size" : 17920,
+      "LastWriting" : "2022-11-02 04:45:18Z",
+      "Hash" : "asGkY66z8jS29gHttzljMo79Wdk",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Sirenix.Serialization.dll",
+      "Size" : 346112,
+      "LastWriting" : "2022-11-02 04:45:18Z",
+      "Hash" : "L9JPjSOMwgwKlsUyr77YsScW9g8",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Sirenix.Utilities.dll",
+      "Size" : 147456,
+      "LastWriting" : "2022-11-02 04:45:18Z",
+      "Hash" : "PiieIhAnq/8qSgDGYcINMXIiU/Y",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/spine-unity-examples.dll",
+      "Size" : 102400,
+      "LastWriting" : "2023-02-02 05:17:23Z",
+      "Hash" : "IZJN9tJ+cFqtNJJLHP9GU2VIKb4",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/spine-unity.dll",
+      "Size" : 315904,
+      "LastWriting" : "2023-02-02 05:17:18Z",
+      "Hash" : "sd6d6VAmNHr3PBePEt3gMooeook",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Collections.dll",
+      "Size" : 5120,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "rZAqxFblE9xJe3XM10TFtlY7J5A",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.ComponentModel.Composition.dll",
+      "Size" : 247808,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "SCDsSnVY4Yqh6hUdIs8ZILgrI6c",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.ComponentModel.TypeConverter.dll",
+      "Size" : 6144,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "tyGiElzaW8aTEu2NctgJmnuk7XQ",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Configuration.dll",
+      "Size" : 43008,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "DYVLzvQJT9GcF/t9Fr+ftQGmUoA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Core.dll",
+      "Size" : 1057792,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "ysgRMu+KdswL7pnfpf/CCWwCuEg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Data.dll",
+      "Size" : 1941504,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "WZa1x4JjGi5/J29fZggJxCGBCRY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Diagnostics.Debug.dll",
+      "Size" : 4608,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "wvkfWGID2w9ie3NmMkpe1KGgRwU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Diagnostics.StackTrace.dll",
+      "Size" : 6656,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "bFzumljc9JP5TfJ7feF/Gb3wIeM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.dll",
+      "Size" : 2278400,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "k+s3pM0gAx3QZi9s5d5Ji/QPotc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Drawing.dll",
+      "Size" : 184320,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "mpWFXd8BZjjnLDu6h0mCOWn82ec",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.EnterpriseServices.dll",
+      "Size" : 33280,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "fickXNHY1k0Mf9NdPFe75fnlT6o",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Globalization.Extensions.dll",
+      "Size" : 6144,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "RL/x8ksjX3QvhOTxUukS+gRS7J8",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.IdentityModel.Tokens.Jwt.dll",
+      "Size" : 83304,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "/l9J1mQQIjKMZokozKe2It3aJdw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.IO.Compression.dll",
+      "Size" : 98816,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "w647zVyNmvd8xXnh0zX4z20qJBU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "Size" : 23040,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "uAl5lJuBfSav4KiosDWPcE7OgrI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.IO.dll",
+      "Size" : 4608,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "w3oZqyrcI/Q5WtXqwqGM9aX93ss",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.IO.FileSystem.dll",
+      "Size" : 4608,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "8e8Ty10jKFY4HRP2uOLpXb39pr4",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Linq.dll",
+      "Size" : 4096,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "fOOc0z949HT40uwPEFj80aa53Zg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Net.Http.dll",
+      "Size" : 115200,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "1m6Q0j9feUqarCgaPScSYAeAdyo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Numerics.dll",
+      "Size" : 114176,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "4nHOnv5OFAqKVIkgKZK/gPv0WYY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Reflection.dll",
+      "Size" : 5632,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "IpUYSgK3Zv7gK6MQTp/NcpKhX/w",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+      "Size" : 16776,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "J3KQlY67t9nnXBXn+QVWM8tITqY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Runtime.dll",
+      "Size" : 12800,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "GcDI1G7JMReQ/preT9hV23f2YJ0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Runtime.Extensions.dll",
+      "Size" : 5120,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "6Vu52HnCK5DS31MSQ1aVWhSlfrw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Runtime.Serialization.dll",
+      "Size" : 840704,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "PjiaN5ZWtXhrYByOzQpJ8Rmlyso",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Runtime.Serialization.Xml.dll",
+      "Size" : 7168,
+      "LastWriting" : "2022-02-02 09:17:56Z",
+      "Hash" : "0srTtegP4BBWYTsNlCwXfMbQzKE",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Security.Cryptography.Cng.dll",
+      "Size" : 53640,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "ptjYQuOI5x65dMiJAc2w+VkSAVc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.ServiceModel.Internals.dll",
+      "Size" : 218112,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "nv/tWv+kx1ZtRdn8QDE9E2msOeA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Text.Encoding.dll",
+      "Size" : 5120,
+      "LastWriting" : "2022-02-02 09:17:56Z",
+      "Hash" : "fAZdT1nGMvltlI20wcZWAIJnRts",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Threading.Tasks.Extensions.dll",
+      "Size" : 25984,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "hQhJqmcjcz5mHzv+bagF9GV6L8s",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Transactions.dll",
+      "Size" : 33280,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "zhCHMvnuRMGOZDTIhrzXXhEum70",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Xml.dll",
+      "Size" : 2414592,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "ySnfKHrPWnJzl1Qe8sS4pZWuxg0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Xml.Linq.dll",
+      "Size" : 119296,
+      "LastWriting" : "2022-02-02 09:17:54Z",
+      "Hash" : "J9mvsx21T69xo6eAJfcD5hBDubg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/System.Xml.XPath.XDocument.dll",
+      "Size" : 5120,
+      "LastWriting" : "2022-02-02 09:17:56Z",
+      "Hash" : "0wN2Wbb5ERsTKBQWJfmarwrzX5Y",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.2D.Animation.Runtime.dll",
+      "Size" : 36864,
+      "LastWriting" : "2023-02-02 05:17:26Z",
+      "Hash" : "+xun3Y7AhD0RIhn1Q8hSb0ii1Vs",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.2D.Animation.Triangle.Runtime.dll",
+      "Size" : 187392,
+      "LastWriting" : "2023-02-02 05:17:21Z",
+      "Hash" : "Bdobm4SDXIRoPP4mliOew8as07s",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.2D.Common.Runtime.dll",
+      "Size" : 3072,
+      "LastWriting" : "2023-02-02 05:17:20Z",
+      "Hash" : "ow0kwFpXuGKt8EFK07h0wLhhobc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.2D.IK.Runtime.dll",
+      "Size" : 16896,
+      "LastWriting" : "2023-02-02 05:17:15Z",
+      "Hash" : "BYTh5lrpTSfsxrTQCEmp5jB4W6w",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.Addressables.dll",
+      "Size" : 98304,
+      "LastWriting" : "2023-02-02 05:17:21Z",
+      "Hash" : "w3c/T/tWgDV5J1KPGKLJod5duWA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+      "Size" : 4608,
+      "LastWriting" : "2023-02-02 05:17:13Z",
+      "Hash" : "Fo/6GfQqgKYPgeGkii8o4efWh74",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.InternalAPIEngineBridge.013.dll",
+      "Size" : 4608,
+      "LastWriting" : "2023-02-02 05:17:20Z",
+      "Hash" : "uWT8Y1UWMkizE0r9dkBk6dNmBN4",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.Localization.dll",
+      "Size" : 249856,
+      "LastWriting" : "2023-02-02 05:17:25Z",
+      "Hash" : "NSWG9mIRVVUXFuEONQApvyc6Qoc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.Mathematics.dll",
+      "Size" : 716288,
+      "LastWriting" : "2023-02-02 05:17:26Z",
+      "Hash" : "tTMNQmDbyg8b2X3CUAQCN6VUbbM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.Recorder.Base.dll",
+      "Size" : 4096,
+      "LastWriting" : "2023-02-02 05:17:13Z",
+      "Hash" : "JVu8hbbmtj2VUEi5oRY4t1eMarI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.Recorder.dll",
+      "Size" : 5632,
+      "LastWriting" : "2023-02-02 05:17:23Z",
+      "Hash" : "xn5J/u6GUoNsl/eCuRxmqhnzMKo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.ResourceManager.dll",
+      "Size" : 99840,
+      "LastWriting" : "2023-02-02 05:17:16Z",
+      "Hash" : "R4/bGQeUa4RGoYH2fEOWljCQkvc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.ScriptableBuildPipeline.dll",
+      "Size" : 7168,
+      "LastWriting" : "2023-02-02 05:17:21Z",
+      "Hash" : "s2meVDw5j47oLVaTS0/SdDLFPK8",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.TextMeshPro.dll",
+      "Size" : 370176,
+      "LastWriting" : "2023-02-02 05:17:21Z",
+      "Hash" : "16/rsQkltdAW2brQEXDHJPtyCec",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/Unity.Timeline.dll",
+      "Size" : 111616,
+      "LastWriting" : "2023-02-02 05:17:16Z",
+      "Hash" : "dUb7gZx48Z2q0aRzWECPbY1NieA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "Size" : 12800,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "MD3GrOzk+0CFgbRzLh17UP6sw+k",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.AIModule.dll",
+      "Size" : 45568,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "He2KP+YjDLyCJSfX75yebG1vYOw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "Size" : 68096,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "9eErHaS1XWIG2noiDCBGbDiu4Jw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.AnimationModule.dll",
+      "Size" : 150016,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "W+ykK7rBLXG/ynlxqoijINQ0pZk",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.ARModule.dll",
+      "Size" : 10240,
+      "LastWriting" : "2022-02-02 09:53:02Z",
+      "Hash" : "jDTW3tRsKNrZLqE42kc8qGgd/KM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "Size" : 22528,
+      "LastWriting" : "2022-02-02 09:52:36Z",
+      "Hash" : "mk4IB3hQNTZbeubI9yPjgt7RkHY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.AudioModule.dll",
+      "Size" : 59392,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "XhjQ+rm3QblIVhJv6aDeIDMblwQ",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.ClothModule.dll",
+      "Size" : 15360,
+      "LastWriting" : "2022-02-02 09:52:42Z",
+      "Hash" : "mE6UWJGOujQDAsFDB1h9n0CF5/k",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "Size" : 10752,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "+F2V5wjhpwEPGSJaKxLiUtJLNMw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "Size" : 11264,
+      "LastWriting" : "2022-02-02 09:52:38Z",
+      "Hash" : "bTKHY7Od+wJtQvRD/Fcwm/r1d44",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.CoreModule.dll",
+      "Size" : 1147904,
+      "LastWriting" : "2022-02-02 09:52:26Z",
+      "Hash" : "KhD0ImUloWM2R46V90wTHPM9IOo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "Size" : 10240,
+      "LastWriting" : "2022-02-02 09:53:04Z",
+      "Hash" : "hTSV1xVQRd4Entr0b2NOktSrFoc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.DirectorModule.dll",
+      "Size" : 13824,
+      "LastWriting" : "2022-02-02 09:52:40Z",
+      "Hash" : "4IL+wBE934/ji+Y2Y3r1fKmTDNs",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.dll",
+      "Size" : 92672,
+      "LastWriting" : "2022-02-02 09:53:10Z",
+      "Hash" : "X4P+VFDebXE1EryYPbGyTu3l+Lw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "Size" : 18432,
+      "LastWriting" : "2022-02-02 09:52:38Z",
+      "Hash" : "Fy6XunqeLfnqhtJ0iEPuG3IK+2A",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "Size" : 28160,
+      "LastWriting" : "2022-02-02 09:52:46Z",
+      "Hash" : "pwmP2qvZo//DpLnuZqPCGJ07se8",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.GIModule.dll",
+      "Size" : 9216,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "cqqTbKO9r7Wa4Z+a0vLTz3k5QkQ",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.GridModule.dll",
+      "Size" : 14336,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "0aX0Xyeg0k3GjJwNAJ5iCD73YvU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "Size" : 9216,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "cmhlUjSWH4jJwp5wGzVFmlNbOy0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "Size" : 13312,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "zsX/U2DTs2BNgGQlVyX4EWoGQg8",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "Size" : 160768,
+      "LastWriting" : "2022-02-02 09:52:48Z",
+      "Hash" : "wMnkXk7AaDBFjUkFl4HPqQ2MbeE",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "Size" : 26112,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "rMRTe9/x596JpfdqhPv68P1SnDU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.InputModule.dll",
+      "Size" : 12800,
+      "LastWriting" : "2022-02-02 09:52:52Z",
+      "Hash" : "VyGNrFp7QQdixRm0hR4YvGYlOMQ",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "Size" : 11264,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "kICjMZ4DN5EwVs9pygp6i34obsU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "Size" : 10240,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "5dO9sD3QmHQjfMH6xPdY3bQsCT0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "Size" : 142848,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "MU6a5GuCzQuD6PhtRkurHdMTfVs",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "Size" : 9728,
+      "LastWriting" : "2022-02-02 09:53:04Z",
+      "Hash" : "cH+Jh7wZlj5rKtvjU1NXXAsDXLs",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "Size" : 107008,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "m0V5jXkjejk1F60+OUdSfqn5mvU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "Size" : 96768,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "pH5/qcsm3/w9EE9ELXa/o0n4ygI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "Size" : 9216,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "uWFzXAWmDJO8mA6OUaQx3bT0+dQ",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "Size" : 9216,
+      "LastWriting" : "2022-02-02 09:52:52Z",
+      "Hash" : "8Exynrvgt5Sxej6s29G4uhJ8B+A",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "Size" : 10240,
+      "LastWriting" : "2022-02-02 09:52:46Z",
+      "Hash" : "+6AduTk9w+GkF9ipGl7fj1RHnBg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "Size" : 21504,
+      "LastWriting" : "2022-02-02 09:47:38Z",
+      "Hash" : "UYobYspYhLKnYj+GK7qqbGACzug",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "Size" : 10752,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "Igiaqj/a35dcy34fcb4EuJQvL9c",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "Size" : 14336,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "BN5O3bC3AIJGjiu+Z2ubdAAJkeI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.StreamingModule.dll",
+      "Size" : 10240,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "8sn0hl6pC9VrorP9m5m7wzd+AY4",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "Size" : 13824,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "JmRkwCLK52TeT/KBHcalRWIEYMk",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "Size" : 24064,
+      "LastWriting" : "2022-02-02 09:52:52Z",
+      "Hash" : "FgHeyXY+VBOoHJ7hym4iBhfSNcg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.TerrainModule.dll",
+      "Size" : 81920,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "FFBgZ3jglELWLstGc07MAb8LuBA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "Size" : 10240,
+      "LastWriting" : "2022-02-02 09:52:52Z",
+      "Hash" : "fYrSeqAaZKI26+k6OGW0LT5fgaU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.TextCoreModule.dll",
+      "Size" : 186880,
+      "LastWriting" : "2022-02-02 09:52:52Z",
+      "Hash" : "wdtZ0IxJAcB4bo8oqdE9Hh/v7ZM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "Size" : 28160,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "F/CR8pMR8JlgyUhz/rAq/m4Y2sM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.TilemapModule.dll",
+      "Size" : 26624,
+      "LastWriting" : "2022-02-02 09:52:48Z",
+      "Hash" : "28zt78+8KzGz+Hvf3XPNZf2trNw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.TLSModule.dll",
+      "Size" : 15872,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "GCMZ404zYaVM02M3UC6ndQJ8CFY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UI.dll",
+      "Size" : 230912,
+      "LastWriting" : "2023-02-02 05:17:12Z",
+      "Hash" : "q1ermVl1OAqOnNsy21EeWexkboU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "Size" : 798720,
+      "LastWriting" : "2022-02-02 09:53:08Z",
+      "Hash" : "iQLn+iRPYNV8/Pnh+T0Mq2kKa3I",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "Size" : 47616,
+      "LastWriting" : "2022-02-02 09:53:00Z",
+      "Hash" : "Raf2Wy2TecW9YfvmmUKkxPqvCeU",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UIModule.dll",
+      "Size" : 24064,
+      "LastWriting" : "2022-02-02 09:52:50Z",
+      "Hash" : "PqBEq3mCO2P/eKtI2/z3w6wwJKY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UmbraModule.dll",
+      "Size" : 9216,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "mHwIzHW10DLDfaHxidrms40WJ5o",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UNETModule.dll",
+      "Size" : 78848,
+      "LastWriting" : "2022-02-02 09:52:58Z",
+      "Hash" : "EwWtd8yPu44dYnLZEnz3tSQj0Ww",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "Size" : 33792,
+      "LastWriting" : "2022-02-02 09:52:58Z",
+      "Hash" : "mbczpRAdXSx5rFlJDIq9FLO5ntg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "Size" : 11264,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "b37CRAjREnD91OYQVH1Zw6ik0CY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "Size" : 10752,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "8Q/xyDc4mrMDZ+Z5l5fjcMSINko",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "Size" : 9216,
+      "LastWriting" : "2022-02-02 09:52:52Z",
+      "Hash" : "qdYknrGBUs9i2g9FK1Dwo/268fI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Size" : 12288,
+      "LastWriting" : "2022-02-02 09:52:58Z",
+      "Hash" : "OirkO5NmUpUEAYEh2Gd9Jl0c9wY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "Size" : 11776,
+      "LastWriting" : "2022-02-02 09:52:58Z",
+      "Hash" : "8ro9bg7I748xwk6J1XNv/GJ/0Ek",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "Size" : 44544,
+      "LastWriting" : "2022-02-02 09:52:44Z",
+      "Hash" : "2kIUxlTC8PnIJAuQewIRKM4LZv0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "Size" : 11264,
+      "LastWriting" : "2022-02-02 09:52:58Z",
+      "Hash" : "e2oAtyKHb3rP+D5EllCpS+TYCyc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "Size" : 20480,
+      "LastWriting" : "2022-02-02 09:53:06Z",
+      "Hash" : "GVsFwKy6S6LNfNxm6OUBpx9Mo4w",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "Size" : 13312,
+      "LastWriting" : "2022-02-02 09:52:42Z",
+      "Hash" : "z58syrHmvHEtuc+kiVomDYXCxlY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.VFXModule.dll",
+      "Size" : 39936,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "leFkq5ZD/nbUuTaTFZbgGljIbIo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.VideoModule.dll",
+      "Size" : 29696,
+      "LastWriting" : "2022-02-02 09:53:00Z",
+      "Hash" : "iqCBnJ6zrw7e1SOdgYevntB8Ngo",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "Size" : 23552,
+      "LastWriting" : "2022-02-02 09:52:30Z",
+      "Hash" : "vNnXsLXhMeYhQU3p8OwGt+8OKa8",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.VRModule.dll",
+      "Size" : 15360,
+      "LastWriting" : "2022-02-02 09:53:06Z",
+      "Hash" : "fTkz3R53aMXo8aLq0mt8xUZ+Gd8",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.WindModule.dll",
+      "Size" : 10240,
+      "LastWriting" : "2022-02-02 09:52:32Z",
+      "Hash" : "8YUy/es87iCHO11XWhijJjeCfRc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/UnityEngine.XRModule.dll",
+      "Size" : 56320,
+      "LastWriting" : "2022-02-02 09:53:02Z",
+      "Hash" : "UUJ/MreDTZvJBNLGQfJmwpH+c2U",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Managed/YamlDotNet.dll",
+      "Size" : 220160,
+      "LastWriting" : "2022-12-25 23:38:31Z",
+      "Hash" : "IyC3VQfBniDpwRreIdSvCypuIB8",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Resources/unity default resources",
+      "Size" : 4844872,
+      "LastWriting" : "2022-02-02 09:47:34Z",
+      "Hash" : "6Vv9zMfBYjXcre83uAN3M+RVpro",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "InterTheDungeon_Data/Resources/unity_builtin_extra",
+      "Size" : 390644,
+      "LastWriting" : "2023-02-02 05:18:01Z",
+      "Hash" : "T97tVPnenH70k/ETcASR5kzx1ko",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "Size" : 4979288,
+      "LastWriting" : "2022-02-02 09:53:32Z",
+      "Hash" : "gexAeJ58j/lkKbW/Vll5INTYgRk",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "Size" : 780288,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "jP6wt1O0QT/8K39CzgoiTJZl30E",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/browscap.ini",
+      "Size" : 311984,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "LVRU4WHeiltlkQ8nvXDZ0K2PpHY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/config",
+      "Size" : 3276,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "xEg15Igdlal7WXvr/13roCM6WIc",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "Size" : 60575,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "Size" : 29116,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "2NtxEfzloI2LfJpuHgrS+/NM/hI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "Size" : 2622,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "3Svi28zTRzZxkwGu6SQp1CWOpaA",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/web.config",
+      "Size" : 11686,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "pNfgVRb2PWq2cyeymdT7KFLLhAs",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "Size" : 1605,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "Size" : 60575,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "Size" : 33648,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "kkW+/NEWRY6WGWlPGnhcUPphtY4",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "Size" : 2622,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/web.config",
+      "Size" : 18848,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "fXdtcwy9JTVkcT82Vz3YNmeCeIw",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "Size" : 1605,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "Size" : 60575,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "Size" : 34106,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "HhGPS1wcansYWOP8yxsdEJVWGXY",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "Size" : 2622,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/web.config",
+      "Size" : 18857,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "6j4q1tcdSDxUsShS3L3NC6pWmYg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "Size" : 1605,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "Size" : 25817,
+      "LastWriting" : "2022-02-02 09:47:32Z",
+      "Hash" : "k2Ug1btcAKGYXXpMTw73Y6kDGGI",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "version.data",
+      "Size" : 24,
+      "LastWriting" : "2023-02-02 22:51:44Z",
+      "Hash" : "9FqdPckhNfnJaFBj2Rgaiusd2pU",
+      "Attributes" : 32
+    }
+  ]
+}
